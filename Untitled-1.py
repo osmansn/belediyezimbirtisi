@@ -15,6 +15,7 @@ driver.maximize_window()
 time.sleep(2)
 
 user_name = driver.find_element(By.NAME,'paydas')
+
 password = driver.find_element(By.NAME,'pswrd')
 
 
